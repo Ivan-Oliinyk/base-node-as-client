@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(193, 222, 193);
+  padding: 0;
+  margin: 0;
+}
+
+#ball {
+  position: absolute;
+  display: block;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  background-color: green;
+  cursor: pointer;
+}
